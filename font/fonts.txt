@@ -1,0 +1,45 @@
+Google Fonts List
+=================
+
+Popular Serif Fonts:
+- Playfair Display
+- Lora
+- Merriweather
+- Abril Fatface
+- Crimson Text
+
+Popular Sans-Serif Fonts:
+- Roboto
+- Open Sans
+- Montserrat
+- Poppins
+- Inter
+- Raleway
+- Ubuntu
+- Oswald
+
+Popular Display Fonts:
+- Pacifico
+- Dancing Script
+- Satisfy
+- Great Vibes
+- Caveat
+- Fredoka One
+- Fredoka
+
+Popular Monospace Fonts:
+- Roboto Mono
+- JetBrains Mono
+- IBM Plex Mono
+- Courier Prime
+- Source Code Pro
+
+Recommended for Web:
+- Roboto (versatile, modern)
+- Open Sans (clean, readable)
+- Montserrat (bold, stylish)
+- Poppins (friendly, modern)
+- Lora (elegant serif)
+- Playfair Display (luxury feel)
+
+Note: Download font files dari https://fonts.google.com/
