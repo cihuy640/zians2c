@@ -6,7 +6,7 @@ button.addEventListener("click", () => {
   button.disabled = true;
 
   // 2. Bikin wadah buat nyimpen angka mulai dari 3
-  let detik = 3;
+  let detik = 5;
 
   // 3. Ubah teks pertama kali pas diklik, sekalian nampilin angka 3-nya
   // Catatan: Pake tanda kutip miring (backtick ` `) di sebelah tombol angka 1 di keyboard lu ya cik!
