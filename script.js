@@ -11,7 +11,7 @@ button.addEventListener("click", () => {
   // 3. Ubah teks pertama kali pas diklik, sekalian nampilin angka 3-nya
   // Catatan: Pake tanda kutip miring (backtick ` `) di sebelah tombol angka 1 di keyboard lu ya cik!
   text.textContent = `Goodboy AWOKAAEKAKWO, lu udh jadi jomokers, anjayy sigma abiz (${detik})`;
-  text.style.transform = "scale(1.1)";
+  text.style.transform = "scale(1.0)";
 
   // 4. Nyalain mesin hitung mundurnya (setInterval)
   const hitungMundur = setInterval(() => {
