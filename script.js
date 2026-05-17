@@ -25,7 +25,7 @@ button.addEventListener("click", () => {
       clearInterval(hitungMundur);
 
       // Balikin teks ke mode awal
-      text.textContent = "Pencet buat jadi suki";
+      text.textContent = "Pencet buat jadi cihuy";
       text.style.transform = "scale(1.0)";
 
       // Jangan lupa nyalain lagi tombolnya biar bisa diklik ulang!
