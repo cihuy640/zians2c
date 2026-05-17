@@ -22,10 +22,10 @@ button.addEventListener("click", () => {
       text.textContent = `Goodboy AWOKAAEKAKWO, lu udh jadi jomokers, anjayy sigma abiz (${detik})`;
     } else {
       // Kalau angkanya udah 0, saatnya berhentiin mesinnya cik!
-      clearInterval(hitungMundur); 
+      clearInterval(hitungMundur);
 
       // Balikin teks ke mode awal
-      text.textContent = "Pencet buat jadi jomokers";
+      text.textContent = "Pencet buat jadi suki";
       text.style.transform = "scale(1.0)";
 
       // Jangan lupa nyalain lagi tombolnya biar bisa diklik ulang!
