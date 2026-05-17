@@ -1,7 +1,7 @@
 body {
   font-size: 50px;
   text-align: center;
-  background-image: url("profile.jpg");
+  background-image: url("assets/cihuy.jpg");
   background-size: 580px;
   background-position: center;
 }
@@ -17,7 +17,7 @@ body {
   height: 50px;
   width: 200px;
   font-size: 20px;
-  background-image: url("cihuy.jpg");
+  background-image: url("assets/name1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
